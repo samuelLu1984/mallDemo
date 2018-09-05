@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getEl",
+				"getElementsByTagName(${0:name})	Element"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"cl",
+				"collapse"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"mrg",
+				"margin-bottom"
+			],
+			[
+				"nor",
+				"nowrap"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"cle",
+				"clearfix"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"to",
+				"text-top"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"de",
+				"de7e27"
+			],
+			[
+				"d",
+				"dashed"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"bgp",
+				"bgp	background-position: ${1:0} ${2:0};"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"lin",
+				"linear"
+			],
+			[
+				"radi",
+				"border-radius"
+			],
+			[
+				"getda",
+				"getDay〔function〕"
+			],
+			[
+				"sel",
+				"selected〔function〕"
+			],
+			[
+				"ap",
+				"appendTo〔function〕"
+			],
+			[
+				"op",
+				"opacity	Style CSS"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"mar",
+				"mar	CSS - margin: 0;"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"stop",
+				"stopBubbleAndPreventDefault"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"bot",
+				"bottom: 〔property〕"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"cen",
+				"cen	CSS - text-align: center;"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"coo",
+				"common.css"
+			],
+			[
+				"inpt",
+				"inp:text	HTML - Input:text"
+			],
+			[
+				"bu",
+				"button	Tag"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"html",
+				"html5	(jquery-1.8.2.js)"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"style",
+				"style	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package→启用插件"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"convert to",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"coff",
+				"Build With: CoffeeScript - Run"
+			],
+			[
+				"bulid",
+				"Build: New Build System"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"conver",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remover",
+				"Package Control: Remove Repository"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"con",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				" utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"convert",
+				"ConvertToUTF8: Reload with Encoding"
+			]
+		],
+		"width": 590.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/webpro/01HTML-struct.htm",
+		"/D/webpro/index.htm",
+		"/D/gitdata/vancsit/d.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/gitdata/lessdemoweb/index.htm",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/User/openinbrowser.sublime-settings",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/malunmac/Desktop/第一阶段 Ajax部分.md",
+		"/C/Users/malunmac/Desktop/第二阶段.md",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
+		"/C/Users/malunmac/Desktop/播放密码.txt",
+		"/D/CZBK/一期视频/王书奎 高级js课程  新版本/07 事件框架/02 event对象/07框架封装2 事件.html",
+		"/D/CZBK/一期视频/王书奎 高级js课程  新版本/07 事件框架/02 event对象/01 鼠标跟随 图片版本.html",
+		"/F/iOS学院工作计划.xml",
+		"/D/gitdata/aicoder/demos/css/demo.less",
+		"/D/gitdata/hotel/web2/css/less/common.less",
+		"/D/gitdata/demos/index.htm",
+		"/D/gitdata/gruntdemo/package.json",
+		"/D/gitdata/gruntdemo/Gruntfile.js",
+		"/D/gitdata/hotel/web2/css/c.css",
+		"/D/gitdata/gruntdemo/build/output.min.js",
+		"/D/gitdata/gruntdemo/src/main.js",
+		"/D/gitdata/hotel/web2/css/common.css",
+		"/D/gitdata/hotel/web2/css/less/c.less",
+		"/D/gitdata/lessdemoweb/css/b.css",
+		"/D/gitdata/gruntdemo/index.htm",
+		"/D/gitdata/hotel/web2/css/b.css",
+		"/D/gitdata/coffeedemos/a.coffee",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+		"/D/gitdata/coffeedemos/a.js",
+		"/D/gitdata/hotel/web2/index.htm",
+		"/D/gitdata/lessdemoweb/css/less/a.css",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/Better CoffeeScript/Keymaps/Default (Windows).sublime-keymap",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/CoffeeScript/README.markdown",
+		"/D/gitdata/lessdemoweb/css/a.css",
+		"/D/gitdata/lessdemoweb/css/less/a.less",
+		"/C/Users/malunmac/Desktop/CssGaga/sprite/CssGaga.png.txt",
+		"/D/gitdata/Itcast/websitDemo/css/style.css",
+		"/D/Soft/camtasia7录屏软件/camtasia7录屏软件/sn.txt",
+		"/D/gitdata/Itcast/websitDemo/css/less/a.css",
+		"/D/gitdata/hotel/web/index.htm",
+		"/D/gitdata/hotel/web/css/common.css",
+		"/D/gitdata/Itcast/websitDemo/css/less/style.less",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/D/Soft/Camtasia.Studio_XP85/Camtasia.Studio_XP85/注册机说明.txt",
+		"/D/Soft/CamtasiaStudio_8.0.4.1060_PortableSoft/Camtasia Studio 8/!)使用必读.txt",
+		"/C/Users/malunmac/Work/Soft/Sublime Text 3/Packages/Theme - Default.sublime-package",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/User/smart_less_build.sublime-settings",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/smart less build/smart_less_build.sublime-settings",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/smart less build/README.md",
+		"/D/gitdata/Itcast/websitDemo/css/style.less",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/Less2Css/README.md",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Installed Packages/Less2Css.sublime-package",
+		"/C/Users/malunmac/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets.sublime-settings",
+		"/D/Soft/IEDevToolbar/说明.txt",
+		"/D/gitdata/Itcast/websitDemo/13ie6smallheight.htm",
+		"/D/gitdata/Itcast/websitDemo/14css3box-reflect.htm",
+		"/D/gitdata/Itcast/websitDemo/14css3box-oriant.htm",
+		"/D/Soft/BB_FlashBack_Pro_3.2.2汉化版/BB FlashBack Pro 3.2.2汉化版/安装说明.txt",
+		"/C/Users/malunmac/Desktop/a.htm",
+		"/D/Soft/BB_FlashBack_Pro_3.2.2汉化版/BB FlashBack Pro 3.2.2汉化版/软件说明.txt",
+		"/C/Users/malunmac/AppData/Local/Temp/Temp1_markman_33lc.com.zip/markman_33lc.com/使用说明.txt",
+		"/D/apache/conf/httpd.conf",
+		"/D/gitdata/phpajax/index.php",
+		"/D/gitdata/phpajax/jsondemo.php",
+		"/D/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/malunmac/Desktop/httpd.conf",
+		"/C/Users/malunmac/Desktop/httpd-vhosts.conf",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-vhosts.conf",
+		"/D/CZBK/备课资料/css备课资料/01css3.htm",
+		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/httpd.conf",
+		"/D/apacheserver/conf/extra/httpd-vhosts.conf",
+		"/D/apacheserver/conf/httpd.conf",
+		"/D/CZBK/备课资料/php备课资料/httpd2.2.12.tar/httpd2.2.12/httpd-2.2.12/README-win32.txt",
+		"/D/gitdata/Itcast/websitDemo/11absolute的拉伸demo.htm",
+		"/D/NetClass/2015年7月7日 JQuery高级(3)/htmls/test.htm",
+		"/D/NetClass/资料/jquery-1.8.2.js",
+		"/D/NetClass/2015年7月5日 JQuery高级(2)/2015年7月5日 上课日志.txt",
+		"/D/NetClass/2015年7月4日 JQuery高级(1)/codes/10页签选择显示.html",
+		"/D/NetClass/2015年7月4日 JQuery高级(1)/codes/test.html",
+		"/D/NetClass/2015年7月4日 JQuery高级(1)/2015年7月4日上课日志.txt",
+		"/D/NetClass/2015年7月5日 JQuery高级(2)/classcodes/03评分控件 五角星案例.html",
+		"/D/NetClass/2015年7月5日 JQuery高级(2)/classcodes/11tabDemo页签案例.html",
+		"/D/NetClass/2015年7月4日 JQuery高级(1)/codes/14.html",
+		"/C/Users/malunmac/Desktop/ab.snippet",
+		"/D/NetClass/2015年7月5日 JQuery高级(2)/常用正则表达式.txt",
+		"/D/NetClass/2015年7月5日 JQuery高级(2)/classcodes/09accordation.html",
+		"/D/NetClass/2015年7月5日 JQuery高级(2)/classcodes/img/a.png",
+		"/D/NetClass/2015年7月5日 JQuery高级(2)/jquery校验",
+		"/D/NetClass/2015年7月5日 JQuery高级(2)/jQuery_validate/jb51.net.txt",
+		"/D/NetClass/2015年7月4日 JQuery高级(1)/codes/08jQueryEvent.html",
+		"/D/NetClass/2015年7月4日 JQuery高级(1)/codes/scripts/jquery-1.8.2.js",
+		"/C/Users/malunmac/Work/CZBK/工资/2015年6月/课时文件/赵剑宇6月份课时.txt",
+		"/D/NetClass/2015年7月2日 BOM和DOM高级（下）/上课日志2015年7月2日.txt",
+		"/C/Users/malunmac/Work/CZBK/工资/2015年6月/课时文件/汪磊06月课时.txt",
+		"/C/Users/malunmac/Work/CZBK/工资/2015年6月/课时文件/王春生6月课时.txt",
+		"/C/Users/malunmac/Work/CZBK/工资/2015年6月/课时文件/王承伟06月课时.txt",
+		"/C/Users/malunmac/Desktop/新建文本文档.txt",
+		"/D/NetClass/2015年7月1日 BOM和DOM高级（上）/2015年7月1日 上课日志.txt",
+		"/D/NetClass/2015年7月1日 BOM和DOM高级（上）/code/05bug.html",
+		"/D/NetClass/2015年7月1日 BOM和DOM高级（上）/code/test.htm",
+		"/D/NetClass/2015年6月30日 html、css、js高级/上课日志.txt",
+		"/D/NetClass/2015年7月2日 BOM和DOM高级（下）/code/a.htm",
+		"/D/NetClass/2015年7月1日 BOM和DOM高级（上）/code/csstree.htm",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/09jsdemo.htm",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/script/index.js",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/script/10jsArray.js",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/07网站布局demo.htm",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/08网站布局 居中块.htm",
+		"/D/NetClass/资料/Reset.css",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/06子元素float 父容器 高度塌陷.htm",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/05浮动demo.htm",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/04boxdemo.htm",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/06子元素float 父容器 高度塌陷",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/02Demo.html",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/01Demo.htm",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/03navdemo.htm",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/css/common.css",
+		"/D/NetClass/2015年6月30日 html、css、js高级/code/css/main.css",
+		"/D/NetClass/2015年6月30日 html、css、js高级/demo.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class",
+			";\n",
+			"background-p",
+			"img",
+			"bg-img",
+			"border-box",
+			"hotel-more",
+			"<!-- 	<DIV CLASS=\"TOP-TWO\">\n					斯沃琪和平饭店艺术中心婚礼会馆	\n				<DIV> -->",
+			"aside-top-wrap",
+			"h3",
+			"23",
+			"share-light",
+			"ff7800",
+			"de7e27",
+			"deny",
+			"root",
+			"vhost",
+			"index.ht",
+			"vhost",
+			"vhost.con",
+			"allow from",
+			"documentroot",
+			"vhost",
+			"#inc",
+			"include host",
+			"5",
+			"\"",
+			"navLink",
+			">",
+			"space",
+			"file",
+			"open file",
+			"span",
+			"tag",
+			"line",
+			"script"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\"",
+			"span"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,57 @@
+
+.header{
+  padding: 0 36px;
+  position: relative;
+  .nav-bar{
+    padding: 0 36px;
+    height: 50px;
+    max-width: 1280px;
+    line-height: 50px;
+    margin: 0 auto;
+    position: relative;
+    text-align: right;
+    background-color: #fff;
+    display: flex;
+    a{
+      color: #333;
+      margin-left: 3.3125em;
+      position: relative;
+      &:hover .nav-bar-cart-logo{
+        fill: #e02614;
+      }
+    }
+    .nav-bar-left-container{
+      flex: 1;
+      .nav-bar-brand-logo{
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        height: 49.5px;
+        width: 190px;
+        left: 36px;
+      }
+    }
+    .nav-bar-right-container{
+      flex:4 ;
+      .nav-bar-menu-container{
+        flex: 1;
+      }
+      .nav-bar-cart-container{
+       display: inline-block;
+        .nav-bar-cart-logo{
+          position: relative;
+          top: 0.16em;
+          height: 1.15em;
+          width: 1.5em;
+          -webkit-transition: fill 0.3s;
+          transition: fill 0.3s;
+          fill: #333;
+          margin-left: 8px;
+        }
+      }
+    }
+  }
+
+}

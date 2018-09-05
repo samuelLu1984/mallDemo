@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>商品列表</title>
+    <style>
+        .layout{
+            width: 999px;
+            min-height: 300px;
+            background: antiquewhite;
+            margin: 10px auto;
+        }
+        button{
+            height: 30px;
+            width: 200px;
+            margin: 10px auto;
+            background: mediumvioletred;
+            border: 0;
+        }
+        table{
+            width: 800px;
+            margin: 10px auto;
+        }
+        img{
+            height: 30px;
+        }
+    </style>
+</head>
+<body>
+<div class="layout">
+
+    <table border="1px" cellspacing="0" >
+        <caption><h1>商品列表</h1></caption>
+        <tr>
+            <th>商品序号</th>
+            <th>商品ID</th>
+            <th>商品名称</th>
+            <th>商品价格</th>
+            <th>商品图片</th>
+            <th>操作</th>
+        </tr>
+        {{ each goods }}
+        <tr>
+            <td>{{$index+1}}</td>
+            <td>{{$value.productId}}</td>
+            <td>{{$value.productName}}</td>
+            <td>{{$value.salePrice}}</td>
+            <td><img src="/public/img/{{$value.productImg}}" alt=""></td>
+            <td>
+                <a href=/admin/update?productId={{$value.productId}}>修改</a>
+                <a href=/admin/delete?productId={{$value.productId}}>删除</a>
+            </td>
+        </tr>
+        {{ /each }}
+    </table>
+    <div class="footer">
+        <a href="/admin/add"><button>增加商品</button></a>
+        <a href="/admin"><button>重新查询</button></a>
+    </div>
+
+
+</div>
+</body>
+</html>

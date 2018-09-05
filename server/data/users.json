@@ -1,0 +1,124 @@
+[
+  {
+    "userImg": "avatar-default.png",
+    "userGender": "0",
+    "_id": "5b5806aea414b110c88c34e2",
+    "userEmail": "abc@163.com",
+    "userName": "张三",
+    "userPwd": "c8e81c4360f5ce4ea1e8bba8a3092b81",
+    "userId": "153249553424956",
+    "createTime": "2018-07-25T05:12:14.252Z",
+    "cartList": [
+      {
+        "productNum": 1,
+        "checked": true,
+        "_id": "5b3f1224ff47b41200e0e95c",
+        "productName": "平衡车",
+        "productId": "201710003",
+        "salePrice": 1999,
+        "productImg": "pingheng.jpg"
+      },
+      {
+        "productNum": 1,
+        "checked": true,
+        "_id": "5b43128cb6fbad2524fb50be",
+        "productName": "自拍杆",
+        "productId": "201710007",
+        "salePrice": 39,
+        "productImg": "zipai.jpg"
+      },
+      {
+        "productNum": 2,
+        "checked": true,
+        "_id": "5b4312c4b6fbad2524fb50bf",
+        "productName": "小米净水器",
+        "productId": "201710008",
+        "salePrice": 1999,
+        "productImg": "8.jpg"
+      },
+      {
+        "productNum": 1,
+        "checked": true,
+        "_id": "5b4311cd518d2e245ce4401e",
+        "productName": "智能插线板",
+        "productId": "201710002",
+        "salePrice": 59,
+        "productImg": "6.jpg"
+      },
+      {
+        "productNum": 1,
+        "checked": true,
+        "_id": "5b431441b23dd520cc1a06c9",
+        "productId": "201710010",
+        "productName": "小米电视4A",
+        "salePrice": 2099,
+        "productImg": "10.jpg"
+      },
+      {
+        "productNum": 1,
+        "checked": true,
+        "_id": "5b4314e4b23dd520cc1a06cb",
+        "productId": "201710012",
+        "productName": "Ear1100",
+        "salePrice": 1100,
+        "productImg": "12.jpg"
+      },
+      {
+        "productNum": 1,
+        "checked": true,
+        "_id": "5b43174fb23dd520cc1a06cc",
+        "productId": "201710013",
+        "productName": "Ear2000",
+        "salePrice": 2000,
+        "productImg": "13.jpg"
+      },
+      {
+        "productNum": 1,
+        "checked": true,
+        "_id": "5b431963cb1403225053e35d",
+        "productId": "201710014",
+        "productName": "Ear1600",
+        "salePrice": 1600,
+        "productImg": "14.jpg"
+      },
+      {
+        "productNum": 1,
+        "checked": true,
+        "_id": "5b4319afcb1403225053e35f",
+        "productId": "201710016",
+        "productName": "Ear700",
+        "salePrice": 700,
+        "productImg": "16.jpg"
+      },
+      {
+        "productNum": 1,
+        "checked": false,
+        "_id": "5b4319d2cb1403225053e360",
+        "productId": "201710017",
+        "productName": "小钢炮蓝牙音箱",
+        "salePrice": 129,
+        "productImg": "1.jpg"
+      },
+      {
+        "productNum": 1,
+        "checked": false,
+        "_id": "5b4319f4cb1403225053e361",
+        "productId": "201710018",
+        "productName": "智能摄像机",
+        "salePrice": 389,
+        "productImg": "photo.jpg"
+      }
+    ],
+    "addressList": [
+      {
+        "isDefault": true,
+        "_id": "5b58071da414b110c88c34ee",
+        "postAddress": "北京市五棵松大街",
+        "postName": "张三",
+        "postTel": "010-22223333",
+        "addressId": "1"
+      }
+    ],
+    "__v": 12
+  }
+]
